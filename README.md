@@ -1,5 +1,7 @@
 # Ethereum Computation Marketplace
 
+[![Join the chat at https://gitter.im/pipermerriam/ethereum-computation-market](https://badges.gitter.im/pipermerriam/ethereum-computation-market.svg)](https://gitter.im/pipermerriam/ethereum-computation-market?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Documentation Status](https://readthedocs.org/projects/ethereum-computation-market/badge/?version=latest)](https://readthedocs.org/projects/ethereum-computation-market/?badge=latest)
 
 A semi-trustless on chain marketplace for purchasing the execution and result
